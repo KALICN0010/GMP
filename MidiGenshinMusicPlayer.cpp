@@ -473,41 +473,41 @@ void GUI() {
 		if (events.UpdateTheDisplay == 1) {
 			events.UpdateTheDisplay = 0;
 
-			//函数集.清屏();
+			// Function set. Clear screen();
 			system("cls");
 
-			print("F6：选择乐谱文件夹，F7：上一曲，F8：播放/暂停，F9：下一曲");
-			print("up：向上翻页，down：向下翻页，left：减少显示数量，right：增加显示数量，展示数量：" + to_string(variableSet.FilesShowNumber));
-			print("乐谱文件夹路径:" + variableSet.MidiFIlesPaths);
+			print("F6: Select music folder, F7: Previous track, F8: Play/Pause, F9: Next track");
+			print("Up: Scroll up, Down: Scroll down, Left: Decrease display count, Right: Increase display count, Display count: " + to_string(variableSet.FilesShowNumber));
+			print("Music folder path: " + variableSet.MidiFIlesPaths);
 
 			if (variableSet.MidiFilesNamesList.size() != 0) {
 				if (variableSet.PlayerMode == 0) {
-					print("当前乐谱:[单次播放][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
+					print("Current track: [Single Play][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
 				}
 				if (variableSet.PlayerMode == 1) {
-					print("当前乐谱:[单曲循环][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
+					print("Current track: [Track Loop][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
 				}
 				if (variableSet.PlayerMode == 2) {
-					print("当前乐谱:[目录循环][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
+					print("Current track: [Folder Loop][" + variableSet.MidiFilesNamesList[variableSet.NowPlay] + "]");
 				}
 			}
 			else {
-				print("当前乐谱:无");
+				print("Current track: None");
 			}
 
 			if (events.playbackState == 0) {
-				print("状态：暂停");
-			}if (events.playbackState == 1) {
-				print("状态：播放");
+				print("Status: Paused");
+			}
+			if (events.playbackState == 1) {
+				print("Status: Playing");
 			}
 
-
-			print("乐谱列表:");
+			print("Track list:");
 
 			if (variableSet.MidiFilesNamesList.size() > 0) {
 
 				int i = variableSet.FilesShowStartPlace; int n = 0;
-				while ((i < variableSet.MidiFilesNamesList.size()) and (n < variableSet.FilesShowNumber)) {
+				while ((i < variableSet.MidiFilesNamesList.size()) && (n < variableSet.FilesShowNumber)) {
 					if (i == variableSet.NowPlay) {
 						print(to_string(i + 1) + " [ " + variableSet.MidiFilesNamesList[i] + " ]");
 					}
