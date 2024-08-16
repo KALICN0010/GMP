@@ -40,11 +40,18 @@
 #### Keep Genshin Impact running in the foreground during playback to simulate instrument playing actions correctly.
 #### If the released version does not work, download the source code locally and compile it using Visual Studio 2022.
 #### Compilation settings are as follows:
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20112814.png)
 #### Please refer to the screenshots for the Additional Include Directories configuration. Modify the path to the include folder according to its actual location.
+![include文件夹的路径可能需要手动修改](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20112849.png)
+![res文件夹内的文件如果没有自动导入的话就在资源文件那里手动导入现有项](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20113423.png)
 #### If resources in the res folder do not import automatically, manually add them under the Resources section.
 #### The released version may not work on all versions of Windows.
 #### If antivirus software flags the program as malicious, add it to the trusted list. This is normal due to the use of Windows API calls in the code.
-#### Editing Music Sheets
+## Editing Music Sheets
 #### Tips for Editing MIDI Files
 #### It's best to convert downloaded MIDI files to the key of C major using MuseScore.
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20115231.png)
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20115245.png)
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20115256.png)
 #### Afterwards, make appropriate adjustments. Any sharp or flat notes and notes outside the range of the 21 notes on the Genshin Impact harp will be ignored.
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20115015.png)
