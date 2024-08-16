@@ -36,7 +36,7 @@
 > > #### Interface Display
 > > #### After launching the program, it will display the current sheet music folder path, the current sheet music name, playback status (play/pause), and the currently displayed sheet music list.
 > > #### When the playback status changes, the interface will update the display status.
-![GUI](README_Photos/GUI.png)
+![Screen Capture](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-17%20010224.png)
 
 ## How to Operate
 > ### Preparations Before Playing:
