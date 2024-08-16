@@ -1,12 +1,12 @@
 # MidiGenshinMusicPlayer
-![Screen Capture](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-17%20010224.png)
+![Screen Capture](README_Photos/屏幕截图 2024-08-17 013542.png)
 
 ## Download Method
 ![Download](README_Photos/download.png)
 
 # MidiGenshinMusicPlayer on Gitee:
 ## [Click to Download MidiGenshinMusicPlayer.exe from Gitee](https://gitee.com/xr_jesse/midi-genshin-music-player/releases/download/1.0/MidiGenshinMusicPlayer.exe)
-![Screen Capture](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-17%20010224.png)
+![Screen Capture](README_Photos/屏幕截图 2024-08-17 013542.png)
 ## [Click to Download Some Music I've Adapted](https://gitee.com/xr_jesse/muse-score-files/repository/archive/master.zip)
 
 # Operation Guide
@@ -36,7 +36,7 @@
 > > #### Interface Display
 > > #### After launching the program, it will display the current sheet music folder path, the current sheet music name, playback status (play/pause), and the currently displayed sheet music list.
 > > #### When the playback status changes, the interface will update the display status.
-![Screen Capture](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-17%20010224.png)
+![Screen Capture](README_Photos/屏幕截图 2024-08-17 013542.png)
 
 ## How to Operate
 > ### Preparations Before Playing:
