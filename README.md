@@ -1,5 +1,5 @@
 # MidiGenshinMusicPlayer
-[Click to Download blob:https://github.com/5a69d48c-b8e8-4aea-9a21-6104b9bce922](blob:https://github.com/5a69d48c-b8e8-4aea-9a21-6104b9bce922)
+[Click to Download]("blob:https://github.com/5a69d48c-b8e8-4aea-9a21-6104b9bce922")
 # Operation Guide
 ## Key Operations List
 ### Playback Status
