@@ -1,4 +1,5 @@
 # MidiGenshinMusicPlayer
+![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-08-17%20013542.png)
 # Operation Guide
 ## Key Operations List
 ### Playback Status
