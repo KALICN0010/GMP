@@ -1,5 +1,4 @@
 # MidiGenshinMusicPlayer
-[Click to Download](https://github.com/KALICN0010/GMP/blob/main/MidiGenshinMusicPlayer_CN.exe)
 # Operation Guide
 ## Key Operations List
 ### Playback Status
