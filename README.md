@@ -58,4 +58,4 @@
 #### Afterwards, make appropriate adjustments. Any sharp or flat notes and notes outside the range of the 21 notes on the Genshin Impact harp will be ignored.
 ![输入图片说明](README_Photos/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-22%20115015.png)
 ## writer:
-[XianRenJESSE in https://gitee.com/xr_jesse](https://gitee.com/xr_jesse)
+[XianRenJESSE(闲人JESSE) on https://gitee.com/xr_jesse](https://gitee.com/xr_jesse)
