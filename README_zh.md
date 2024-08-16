@@ -1,5 +1,4 @@
 # MidiGenshinMusicPlayer
-# [点击下载]()
 # 操作指南
 ## 按键操作列表
 ### 播放状态
