@@ -6,7 +6,7 @@
 
 # MidiGenshinMusicPlayer on Gitee:
 ## [Click to Download MidiGenshinMusicPlayer.exe from Gitee](https://gitee.com/xr_jesse/midi-genshin-music-player/releases/download/1.0/MidiGenshinMusicPlayer.exe)
-![Screen Capture](README_Photos/屏幕截图%202024-08-17%20013542.png)
+![Screen Capture](README_Photos/屏幕截图%202024-08-17%20010224.png)
 ## [Click to Download Some Music I've Adapted](https://gitee.com/xr_jesse/muse-score-files/repository/archive/master.zip)
 
 # Operation Guide
